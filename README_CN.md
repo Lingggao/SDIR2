@@ -19,15 +19,15 @@
 
 1. 点击任务栏中的 “放大镜” 搜索菜单图标。
 
-![搜索菜单](C:\Users\hnist\Desktop\1.png)
+![搜索菜单](https://github.com/Lingggao/SDIR2/blob/master/1.png?raw=true)
 
 2. 在正常情况下，搜索菜单中的全部文字将会显示为中文。
 
-![正常情况](C:\Users\hnist\Desktop\2.png)
+<img src="https://github.com/Lingggao/SDIR2/blob/master/2.png?raw=true" width = "50%" />
 
 3. 受此问题影响，搜索菜单中的部分文字将会显示为英文。
 
-![问题情况](C:\Users\hnist\Desktop\3.png)
+<img src="https://github.com/Lingggao/SDIR2/blob/master/3.png?raw=true" width = "50%" />
 
 ### 最新情况：
 
