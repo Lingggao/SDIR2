@@ -9,7 +9,7 @@
 
 > 接收人：Microsoft
 
-> 日期：2020 年 9 月 28 日
+> 日期：2020 年 9 月 29 日
 
 ## 二、缺陷详情
 
@@ -31,7 +31,7 @@
 
 ### 最新情况：
 
-截止至中国北京时间 2020 年 9 月 29 日 0 时 (美国西雅图时间 2020 年 9 月 28 日 9 时)，此问题仍然可以成功重现。**目前，已经有接近 100 名 Windows 产品用户在 Microsoft Community 中表示自己正在遭受此问题的困扰**。有关此问题的详细汇总信息，烦请查看此处的[**微软社区讨论贴**]([[2020 年 9 月 26 日 | 突发情况]Windows 10 系统 -> - Microsoft Community](https://answers.microsoft.com/zh-hans/windows/forum/all/2020-年-9-月-26-日/59ebb312-fbdd-4d6a-9e2a-c9eac7763125))。
+截止至中国北京时间 2020 年 9 月 29 日 0 时 (美国西雅图时间 2020 年 9 月 28 日 9 时)，此问题仍然可以成功重现。**目前，已经有接近 100 名 Windows 产品用户在 Microsoft Community 中表示自己正在遭受此问题的困扰**。有关此问题的详细汇总信息，烦请查看此处的[**微软社区讨论贴**](https://answers.microsoft.com/zh-hans/windows/forum/all/2020-%e5%b9%b4-9-%e6%9c%88-26-%e6%97%a5/59ebb312-fbdd-4d6a-9e2a-c9eac7763125)。
 
 ## 三、测试工作
 
