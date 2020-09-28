@@ -1,6 +1,6 @@
 # 软 件 缺 陷 调 查 报 告
 
-[**English Version (英文版本)**]()
+[**English Version (英文版本)**](https://github.com/Lingggao/SDIR2#software-defect-investigation-report)
 
 ## 一、报告简介
 
